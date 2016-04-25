@@ -1,0 +1,43 @@
+c:\users\charles\documents\visual studio 2015\Projects\AISteladecadastro\AISteladecadastro\bin\Debug\AISteladecadastro.exe.config
+C:\Users\charles\Documents\Visual Studio 2015\Projects\AISteladecadastro\AISteladecadastro\bin\Debug\Database1.mdf
+C:\Users\charles\Documents\Visual Studio 2015\Projects\AISteladecadastro\AISteladecadastro\bin\Debug\Database1_log.ldf
+C:\Users\charles\Documents\Visual Studio 2015\Projects\AISteladecadastro\AISteladecadastro\bin\Debug\AISteladecadastro.exe
+C:\Users\charles\Documents\Visual Studio 2015\Projects\AISteladecadastro\AISteladecadastro\bin\Debug\AISteladecadastro.pdb
+C:\Users\charles\Documents\Visual Studio 2015\Projects\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.csprojResolveAssemblyReference.cache
+C:\Users\charles\Documents\Visual Studio 2015\Projects\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.Properties.Resources.resources
+C:\Users\charles\Documents\Visual Studio 2015\Projects\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.csproj.GenerateResource.Cache
+C:\Users\charles\Documents\Visual Studio 2015\Projects\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.exe
+C:\Users\charles\Documents\Visual Studio 2015\Projects\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.pdb
+C:\Users\charles\Documents\Visual Studio 2015\Projects\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.cadastro.resources
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\AISteladecadastro.exe.config
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.exe
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.pdb
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\Database1.mdf
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\Database1_log.ldf
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\AISteladecadastro.exe
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\AISteladecadastro.pdb
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\mscorlib.dll
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\pt-BR\mscorlib.resources.dll
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\normidna.nlp
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\normnfc.nlp
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\normnfd.nlp
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\normnfkc.nlp
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\normnfkd.nlp
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.csprojResolveAssemblyReference.cache
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.cadastro.resources
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.Properties.Resources.resources
+F:\Desenv C#\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.csproj.GenerateResource.Cache
+E:\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\AISteladecadastro.exe.config
+E:\Desenv C#\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.exe
+E:\Desenv C#\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.pdb
+F:\Pendriver\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\AISteladecadastro.exe.config
+F:\Pendriver\Desenv C#\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.exe
+F:\Pendriver\Desenv C#\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.pdb
+F:\Pendriver\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\Database1.mdf
+F:\Pendriver\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\Database1_log.ldf
+F:\Pendriver\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\AISteladecadastro.exe
+F:\Pendriver\Desenv C#\AISteladecadastro\AISteladecadastro\bin\Debug\AISteladecadastro.pdb
+F:\Pendriver\Desenv C#\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.csprojResolveAssemblyReference.cache
+F:\Pendriver\Desenv C#\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.cadastro.resources
+F:\Pendriver\Desenv C#\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.Properties.Resources.resources
+F:\Pendriver\Desenv C#\AISteladecadastro\AISteladecadastro\obj\Debug\AISteladecadastro.csproj.GenerateResource.Cache
